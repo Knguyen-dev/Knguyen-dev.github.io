@@ -1,5 +1,9 @@
 # How to use github pages
 
+-   NOTE: You can only host static websites on github pages
+
+Static sites: Site that only uses html, css, and javascript. Can't use flask/python/django, node.js/express, etc.
+
 1. Go to settings.
 2. Go to pages
 3. For "Source" set it as main or the branch you want the site to use.
